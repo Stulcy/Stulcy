@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stulcy
-- 👀 I’m interested in web3 (blockchain, DeFi), backend software development and building software people would love to use.
-- 🌱 I’m currently learning Solidity, Hardhat, React, Uniswap
+- 👀 I’m interested in web3 (blockchain, DeFi) and mobile development (Flutter).
+- 🌱 I’m currently learning Solidity, Hardhat, React, Uniswap and expanding my Flutter knowledge.
 - 💞️ I’m looking to collaborate on remote projects in web3.
 - 📫 Reach me on LinkedIn (Rok Štular), Instagram (rok.stular) or gmail (rokkstular@gmail.com).
 
