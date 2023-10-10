@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stulcy
-- 👀 I’m interested in mobile development and web3.
-- 🌱 I’m currently expanding my Flutter, Dart knowledge and learning good software engineering practices.
+- 👀 I’m interested in web3 and blockchain development.
+- 🌱 I’m currently expanding my Solidity, security, web development knowledge and learning good software engineering practices.
 - 📫 Reach me on LinkedIn (Rok Štular), Instagram (rok.stular) or gmail (rokkstular@gmail.com).
 
 
