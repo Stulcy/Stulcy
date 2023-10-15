@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Stulcy
 - 👀 I’m interested in web3 and blockchain development.
 - 🌱 I’m currently expanding my Solidity, security, web development knowledge and learning good software engineering practices.
-- 📫 Reach me on LinkedIn (Rok Štular), Instagram (rok.stular) or gmail (rokkstular@gmail.com).
+- 🚀 My projects -> [Wolflet](https://apps.apple.com/us/app/wolflet/id6446218134) & [GentleBot](https://twitter.com/gentlebot_xyz)
+- 📫 Reach me on LinkedIn (Rok Štular) or gmail (rokkstular@gmail.com).
 
 
 <!---
